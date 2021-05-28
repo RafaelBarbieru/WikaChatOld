@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "996491213572",
+    "firebase_url": "https://wikachat.firebaseio.com",
+    "project_id": "wikachat",
+    "storage_bucket": "wikachat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:996491213572:android:364396e3d2133a12b42e51",
+        "android_client_info": {
+          "package_name": "com.wika.wikachat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "996491213572-u5djlf3krfpu1ta4hjpe09soa060ulij.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wika.wikachat",
+            "certificate_hash": "81df9ec313d96021e9f22796e41edc25d7f6573e"
+          }
+        },
+        {
+          "client_id": "996491213572-009uqr91hrttmpud2562ehdvfh0fpvrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzIaCnVal1sanvxeQMR8lE85QSL6v9Yig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "996491213572-009uqr91hrttmpud2562ehdvfh0fpvrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
